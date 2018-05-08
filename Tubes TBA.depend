@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1477103000 source:g:\tubes tba\list.cpp
+
+1477218818 source:g:\tubes tba\main.cpp
+	<iostream>
+
+1480513018 source:g:\program tba\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"list.h"
+
+1480513150 source:g:\program tba\list.cpp
+	"list.h"
+
+1480513150 g:\program tba\list.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"list.h"
+
